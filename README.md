@@ -63,10 +63,15 @@ DELETE,/api/appointments/:id,Cancel/Delete an appointment
 
 
 team members and their contributions 
+
 Jasir k a -  Dhaanish ahmed institute of technology = completed backend using nodejs , developed the core logics 
+
 harini j -   Dhaanish ahmed institute of technology = Provided the react frontent pages compatible with the backend logic
+
 vasanika  - Rathinam institute of technology = developed various logics in the frontend and executed and demonstrated the flow of project thorugh ppt presentation
+
 irfan - Dhaanish ahmed institute of technology = Provided team support and tested the project in and out
+
 
 
 
