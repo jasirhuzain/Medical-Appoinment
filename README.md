@@ -70,5 +70,5 @@ irfan - Dhaanish ahmed institute of technology = Provided team support and teste
 
 
 
-jasirhuuzain@gmail.com
+jasirhuuzain@gmail.com,
 vasanika06@gmail.com
